@@ -1,2 +1,25 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+.signature{
+	font-variant: small-caps;
+	margin-right: 3em;
+	margin-top: 1em;
+	text-align: right;
+}
+
+.dateline{
+	font-size: .75em;
+	font-style: italic;
+}
+
+.epitaph{
+	font-variant: small-caps;
+	margin: 1em;
+	page-break-inside: avoid;
+	text-align: center;
+}
+
+div + p{
+	text-indent: 0;
+}
