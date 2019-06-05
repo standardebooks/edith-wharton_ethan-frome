@@ -8,6 +8,11 @@
 	text-align: right;
 }
 
+#prologue,
+#epilogue{
+	padding-top: 10.25em;
+}
+
 .dateline{
 	font-size: .75em;
 	font-style: italic;
