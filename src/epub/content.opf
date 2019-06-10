@@ -55,7 +55,8 @@
 		]]></meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4517</dc:source>
-		<dc:source>https://archive.org/details/ethanfromebruce00wharrich</dc:source>
+		<dc:source>https://archive.org/details/ethanfrome00wharrich</dc:source> <!-- 1911 edition -->
+		<dc:source>https://archive.org/details/ethanfromebruce00wharrich</dc:source> <!-- 1922 edition -->
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Ethan_Frome</meta>
