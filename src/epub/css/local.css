@@ -1,30 +1,23 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-.signature{
-	font-variant: small-caps;
-	margin-right: 3em;
+footer{
 	margin-top: 1em;
 	text-align: right;
 }
 
+.signature{
+	font-variant: small-caps;
+}
+
 #prologue,
 #epilogue{
-	padding-top: 10.25em;
+	margin-top: 3em;
 }
 
-.dateline{
-	font-size: .75em;
-	font-style: italic;
-}
-
-.epitaph{
+#chapter-4 blockquote{
 	font-variant: small-caps;
 	margin: 1em;
 	page-break-inside: avoid;
 	text-align: center;
-}
-
-div + p{
-	text-indent: 0;
 }
