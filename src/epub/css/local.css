@@ -17,6 +17,6 @@ footer{
 
 #chapter-4 blockquote{
 	font-variant: small-caps;
-	page-break-inside: avoid;
+	break-inside: avoid;
 	text-align: center;
 }
