@@ -16,7 +16,7 @@ footer{
 }
 
 #chapter-4 blockquote{
-	font-variant: small-caps;
 	break-inside: avoid;
+	font-variant: small-caps;
 	text-align: center;
 }
