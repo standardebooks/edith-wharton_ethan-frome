@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/edith-wharton/ethan-frome</dc:identifier>
 		<dc:date>2019-06-13T00:58:06Z</dc:date>
@@ -49,10 +49,10 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2008110454</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A young man living a joyless life trapped in a loveless marriage gets a taste of true passion.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young man living a joyless life trapped in a loveless marriage gets a taste of true passion.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Ethan Frome is a young man whose nascent ambitions were thwarted by illness and privation. Now his daily toils wring only the most meager living from his fading farm, and his marriage is as frigid as the winter that has beset his home in Starkfield, MA. Yet despite the swirling snows, a flame of passion sparked by the recent arrival of his wife’s cousin, Mattie Silver, burns desperately within him. How far will he go to pursue a forbidden love and the prospect of true happiness? What will be the cost?&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4517</dc:source>
 		<!-- 1911 edition -->
