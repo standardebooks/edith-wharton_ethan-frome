@@ -49,7 +49,7 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2008110454</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A young man living a joyless life trapped in a loveless marriage gets a taste of true passion.</dc:abstract>
+		<meta property="schema:abstract">A young man living a joyless life trapped in a loveless marriage gets a taste of true passion.</meta>
 		<dc:description>
 			&lt;p&gt;Ethan Frome is a young man whose nascent ambitions were thwarted by illness and privation. Now his daily toils wring only the most meager living from his fading farm, and his marriage is as frigid as the winter that has beset his home in Starkfield, MA. Yet despite the swirling snows, a flame of passion sparked by the recent arrival of his wife’s cousin, Mattie Silver, burns desperately within him. How far will he go to pursue a forbidden love and the prospect of true happiness? What will be the cost?&lt;/p&gt;
 		</dc:description>
