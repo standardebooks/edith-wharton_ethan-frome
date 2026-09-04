@@ -31,11 +31,11 @@
 		<dc:title id="title">Ethan Frome</dc:title>
 		<meta property="file-as" refines="#title">Ethan Frome</meta>
 		<dc:subject id="subject-1">Domestic fiction</dc:subject>
-		<dc:subject id="subject-2">New England -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Married people -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Triangles (Interpersonal relations) -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Accident victims -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Rural poor -- Fiction</dc:subject>
+		<dc:subject id="subject-2">New England--Fiction</dc:subject>
+		<dc:subject id="subject-3">Married people--Fiction</dc:subject>
+		<dc:subject id="subject-4">Triangles (Interpersonal relations)--Fiction</dc:subject>
+		<dc:subject id="subject-5">Accident victims--Fiction</dc:subject>
+		<dc:subject id="subject-6">Rural poor--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh86004353</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
